@@ -64,7 +64,6 @@ dotnet run
 Após a execução, você verá a seguinte saída no console:
 
 ```yaml
-Copiar código
 Configurações Atuais:
 Host do Banco de Dados: localhost
 Usuário do Banco de Dados: root
